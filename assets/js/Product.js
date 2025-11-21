@@ -31,6 +31,7 @@ const products = [
 { name: "Timovit Syrup Guava Flavour", img: "assets/img/iteams/Timovit Syrup Guava Flavour.jpg" },
 { name: "Timovit Tablet", img: "assets/img/iteams/Timovit Tablet.jpg" },
 { name: "Uniflora - Capsule", img: "assets/img/iteams/Uniflora - Capsule.jpg" },
+{ name: "Sputnix Ls Syrup", img: "assets/img/iteams/Sputnix Ls Syrup.jpeg" },
  
 ];
 
@@ -49,7 +50,7 @@ function renderProducts(list) {
           <h5 class="card-title text-danger">Oops! No products found</h5>
           <p class="card-text">Please contact our admin for assistance.</p>
           <div class="d-flex justify-content-center gap-3">
-            <a href="tel:09500579890" class="btn btn-primary">
+            <a href="tel:+919444131857" class="btn btn-primary">
               <i class="bi bi-telephone-fill me-1"></i> Call Now
             </a>
             <a href="contact.html" class="btn btn-outline-secondary">
